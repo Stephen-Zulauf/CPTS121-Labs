@@ -1,0 +1,3 @@
+﻿  lab7.c
+C:\Users\Stephen Zulauf\source\repos\Lab7\Lab7\lab7.c(64): warning C4716: 'round_money': must return a value
+  Lab7.vcxproj -> C:\Users\Stephen Zulauf\source\repos\Lab7\x64\Debug\Lab7.exe

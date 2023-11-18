@@ -1,0 +1,5 @@
+Age: 32
+Gender: 3
+Weight: 190
+Height: 6ft1
+Activity level: 3

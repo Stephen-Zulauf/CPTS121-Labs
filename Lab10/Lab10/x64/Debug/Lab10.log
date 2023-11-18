@@ -1,0 +1,5 @@
+﻿  lab10.c
+C:\Users\Stephen Zulauf\source\repos\Lab10\Lab10\lab10.c(46,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Stephen Zulauf\source\repos\Lab10\Lab10\lab10.c(102,9): warning C4101: 'j': unreferenced local variable
+C:\Users\Stephen Zulauf\source\repos\Lab10\Lab10\lab10.c(102,6): warning C4101: 'i': unreferenced local variable
+  Lab10.vcxproj -> C:\Users\Stephen Zulauf\source\repos\Lab10\x64\Debug\Lab10.exe

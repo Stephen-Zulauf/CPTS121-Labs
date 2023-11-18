@@ -1,0 +1,3 @@
+﻿  labThree.c
+C:\Users\Stephen Zulauf\source\repos\Lab3\Lab3\labThree.c(25,9): warning C4013: 'convert_feet_to_inches' undefined; assuming extern returning int
+  Lab3.vcxproj -> C:\Users\Stephen Zulauf\source\repos\Lab3\x64\Debug\Lab3.exe

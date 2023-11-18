@@ -1,0 +1,5 @@
+ID:11111 total:883.59 avg:1.96
+ID:22222 total:51.77 avg:1.62
+ID:33333 total:7.99 avg:0.89
+ID:44444 total:23.91 avg:1.33
+ID:55555 total:187.09 avg:1.87
